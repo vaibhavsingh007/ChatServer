@@ -1,0 +1,5 @@
+c:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+c:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.dll
+c:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.dll
+c:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.pdb

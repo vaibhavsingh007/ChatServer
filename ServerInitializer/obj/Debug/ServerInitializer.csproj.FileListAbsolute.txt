@@ -1,0 +1,16 @@
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\bin\Debug\ServerInitializer.exe.config
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\bin\Debug\ServerInitializer.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\bin\Debug\ServerInitializer.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\bin\Debug\GreetingServer.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\bin\Debug\GreetingServer.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\obj\Debug\ServerInitializer.csprojResolveAssemblyReference.cache
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\obj\Debug\ServerInitializer.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\ServerInitializer\obj\Debug\ServerInitializer.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\obj\Debug\ServerInitializer.csprojResolveAssemblyReference.cache
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\obj\Debug\ServerInitializer.exe
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\obj\Debug\ServerInitializer.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\bin\Debug\ServerInitializer.exe.config
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\bin\Debug\ServerInitializer.exe
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\bin\Debug\ServerInitializer.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\bin\Debug\ChatServer.dll
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\ChatServer\ServerInitializer\bin\Debug\ChatServer.pdb
